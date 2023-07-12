@@ -1,0 +1,14 @@
+{
+  "name": "travelgraphy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carol , Priscilla",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6"
+  }
+}
